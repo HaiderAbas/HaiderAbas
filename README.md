@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" width="200" alt="coding">
 - 🔭 I’m currently working on [vapemeup-dash2](https://vapemeup-dash2.vercel.app/)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I have good approach on **JavaScript**
 
 - 👯 I’m looking to collaborate on [villaduninow](https://villaduninow.pl/)
 
